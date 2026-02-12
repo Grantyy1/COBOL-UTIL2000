@@ -1,4 +1,4 @@
-# Cobol-CALC2000
+# Cobol-UTIL2000
 
 ## Introduction
 A COBOL program that calculates 3 differnt customer's service fees. It also calculates the next 3 tiers of future charges. It also displays the amount of KWH that is used. At the end of each customer it displayes the total billing that each customer will recieve. 
