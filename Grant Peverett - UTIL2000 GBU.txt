@@ -1,0 +1,9 @@
+Name: Grant Peverett
+Date: 2/12/2026
+Assignment: UTIL2000
+GitHub URL: https://github.com/Grantyy1/COBOL-UTIL2000
+
+GBU Reflection: I found this project to be a bit challenging still. I am still getting a grasp on the COLBOL mainframe but definitely feeling
+                better about it. I felt such a rush when I got my code to finally compile completely. I did console in some of my classmates,
+				such as Violet and I am very grateful for the assistance that I recieved, and my coding is feeling more congruent. I feel that
+				I am going to be in better standing for the next assignment with the knowledge that I have learned now in this assignment.
