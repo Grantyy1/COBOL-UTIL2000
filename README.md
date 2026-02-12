@@ -12,9 +12,9 @@ A COBOL program that calculates 3 differnt customer's service fees. It also calc
 --- 
 ## What does it do?
   For each run, the program will:
-    - 1. Display the service charge.
-    - 2. Calculate and display the tier 1, tier 2, and tier 3 charges.
-    - 3. Takes all charges and calculates and displays the total billing for each customer.
+  - 1. Display the service charge.
+  - 2. Calculate and display the tier 1, tier 2, and tier 3 charges.
+  - 3. Takes all charges and calculates and displays the total billing for each customer.
 
 ## Output of the code running:
 
