@@ -19,7 +19,6 @@ A COBOL program that calculates 3 differnt customer's service fees. It calculate
 ## Output of the code running:
 
 <img src="https://github.com/Grantyy1/COBOL-UTIL2000/blob/main/assests/Output%20code%201.png" alt="Profile Picture" />
-
 <img src="https://github.com/Grantyy1/COBOL-UTIL2000/blob/main/assests/Output%20code%202.png" alt="Profile Picture" />
 
 ---
