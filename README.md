@@ -1,4 +1,4 @@
-# Cobol-UTIL2000
+# Cobol-RTP2000
 
 ## Introduction
 A COBOL program that calculates 3 differnt customer's service fees. It calculates the 3 tiers of future charges depending on the amount of kilowatts of power the customer desides to comsume. It also displays the amount of KWH that is used. At the end of each customer, it displayes the total billing that each customer will recieve. 
@@ -30,10 +30,17 @@ A COBOL program that calculates 3 differnt customer's service fees. It calculate
       - Displaying output code.
       
 ---
-## Author
+## Authors
 
 👨‍💻 **Grant Peverett**
 
 - **Grant Peverett GitHub Profile**: [Grantyy1](https://github.com/Grantyy1)
   
 - **Email**: [grpeve01@wsc.edu]
+
+  
+👨‍💻 **Hayden Schmidt**
+
+- **Hayden Schmidt GitHub Profile**: [Haschm05](https://github.com/Haschm05)
+  
+- **Email**: [haschm05@wsc.edu]
